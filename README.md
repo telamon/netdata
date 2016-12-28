@@ -1,4 +1,6 @@
-# netdata
+# netdata - ARMv7
+
+__This fork is modified to run on Raspberries and such__
 
 Dockerfile for building and running a netdata deamon for your host instance.
 

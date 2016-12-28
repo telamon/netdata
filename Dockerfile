@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM armv7/armhf-debian
 
 ADD build.sh /build.sh
 ADD run.sh /run.sh
